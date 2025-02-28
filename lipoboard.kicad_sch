@@ -3285,7 +3285,7 @@
 	)
 	(text "Priority Power MUX"
 		(exclude_from_sim no)
-		(at 250.19 14.478 0)
+		(at 240.538 14.986 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3305,7 +3305,7 @@
 	)
 	(text "Battery Charger"
 		(exclude_from_sim no)
-		(at 122.174 15.494 0)
+		(at 124.714 14.478 0)
 		(effects
 			(font
 				(size 1.27 1.27)
