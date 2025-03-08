@@ -5927,7 +5927,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
 			(at 60.96 86.36 0)
 			(effects
 				(font
@@ -7177,7 +7177,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
 			(at 60.96 105.41 0)
 			(effects
 				(font
@@ -10129,7 +10129,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SON:Texas_DRC0010J"
+		(property "Footprint" "Package_SON:Texas_DRC0010J_ThermalVias"
 			(at 255.27 111.76 0)
 			(effects
 				(font
